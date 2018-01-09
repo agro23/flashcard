@@ -1,0 +1,21 @@
+li {
+  margin: .5em;
+  padding: .3em;
+  border: 2px solid black;
+  list-style: none;
+}
+
+li div {
+  display: none;
+}
+
+.flashanswer {
+  margin: .5em;
+  padding: .3em;
+  border: 1px solid brown;
+  background-color: beige;
+  color: #724C21;
+  width: 200px;
+  height: 150px;
+  display: block;
+}
